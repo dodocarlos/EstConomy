@@ -1,0 +1,5 @@
+Mysql:
+  host: localhost
+  db: estcraft
+  user: root
+  pass: usbw

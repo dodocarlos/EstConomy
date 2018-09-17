@@ -1,0 +1,7 @@
+name: EstEconomy
+version: 1.0
+main: me.dodocarlos.esteconomy.EstEconomy
+description: Plugin de economia do EstCraft
+author: DodoCarlos
+depend: [Vault]
+load: startup
